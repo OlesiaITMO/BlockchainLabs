@@ -130,6 +130,9 @@ npx hardhat run scripts/deploy.js --network sepolia
 
 ### 8. Верификация контракта 
 
+<img width="1010" height="525" alt="image" src="https://github.com/user-attachments/assets/5478cbeb-0bc6-4414-8a69-5a0c75d15748" />
+
+
 Для отображения исходного кода в блок-обозревателе контракт был верифицирован через Etherscan. 
 
 Команда: 
