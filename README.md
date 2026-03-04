@@ -33,9 +33,14 @@ ChainId:
 Публичный адрес кошелька: 
 `0xc4692bDa9aF6f4F1008EBBbD666e41B2feE83f2e`
 
-### 3. Получение тестовых средств 
- 
-Для оплаты комиссий за транзакции (gas) были получены тестовые ETH. 
+### 3. Получение тестовых средств  
+Взяла отсюда  - https://sepolia-faucet.pk910.de/#/claim/c5be0fda-414d-462a-aaf7-3575a0ba3839 
+
+<img width="810" height="574" alt="image" src="https://github.com/user-attachments/assets/6620b436-4e24-49a0-b37f-5143784109b5" />
+
+ <img width="983" height="537" alt="image" src="https://github.com/user-attachments/assets/dd082a05-7fb5-4ef1-9c34-f128cf90045e" />
+
+Для оплаты комиссий за транзакции (gas) были получены тестовые ETH.  
 
 Использовался faucet: 
 
@@ -146,7 +151,9 @@ https://sepolia.etherscan.io/address/0x21A0EbF926a1C1db203e8A9176982B16b62e281d
 Для демонстрации работы токена была выполнена транзакция перевода. 
 
 Переведено: 
-100 OLS 
+100 OLS  
+<img width="1558" height="1004" alt="image" src="https://github.com/user-attachments/assets/bee393aa-b4fb-43f0-ac7c-ef99fd9d7ed2" />
+
 
 Транзакция: 
 https://sepolia.etherscan.io/tx/0x12c4ce4d7c439a9e571285a1260274aca60db3b59e4e410769e8c8edeeaf19e7 
