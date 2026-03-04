@@ -15,6 +15,9 @@
 
 В качестве тестовой сети была выбрана сеть Ethereum Sepolia Testnet.  
 
+Находим в ChainList и добавляем в MetaMask: 
+<img width="1246" height="637" alt="image" src="https://github.com/user-attachments/assets/659bb516-33df-47be-835d-001e82253272" /> 
+
 ChainId: 
 `11155111` 
 
